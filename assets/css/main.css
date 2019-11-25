@@ -3890,6 +3890,16 @@ input, select, textarea {
 
 
 	.work-text{
-		width: 80%;
-		margin: 2em;
+		margin: 0 0 2rem 0;
+		/* text-transform: uppercase; */
+		/* text-shadow: 5px 1px 20px grey; */
+		font-size: 10pt;
+		line-height: normal;
+
+
+		display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
 	}
